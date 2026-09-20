@@ -87,7 +87,7 @@ int main(void) {
     memset(zBuffer, 0, sizeof zBuffer);
 
     /*
-     * Draw three separated cubes.
+     * Draw the cube.
      * The offsets are screen-column offsets relative to the center.
      */
 
